@@ -1,0 +1,41 @@
+_repo: I-Puritani-di-Scozia-vol.-2_43459
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Barbieri, Gaetano
+    gutenberg_agent_id: '42224'
+    url: http://www.gutenberg.org/2009/agents/42224
+covers:
+- cover_type: archival
+  image_path: 43459-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: Translation of second part of "Old Mortality."
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2013-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43459'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'War stories'
+- !lcsh 'Scotland -- History -- 1660-1688 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Bothwell Bridge, Battle of, Scotland, 1679 -- Fiction'
+title: I Puritani di Scozia, vol. 2
+url: http://www.gutenberg.org/ebooks/43459
